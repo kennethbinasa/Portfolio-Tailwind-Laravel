@@ -73,7 +73,7 @@
             KENNETH CARL BINASA
         </div>
         <div class="container text-center lg:text-4xl text-2xl font-normal items-center uppercase font-montserrat lg:pb-5 pb-2 text-bright-gray">
-            Aspiring <span class="hover:transition hover:300ms hover:text-meat">Computer</span> Engineer
+            Aspiring <span class="hover:transition hover:300ms hover:text-meat">Data</span> Engineer
         </div>
         <div class="container flex flex-1 flex-row lg:gap-7 gap-5 pt-5 justify-center">
             <div class="bg-transparent border-2 border-bright-gray flex flex-row font-montserrat font-bold items-center justify-center p-3 lg:rounded-2xl rounded-xl h-full text-bright-gray hover:text-lake hover:border-lake">
@@ -149,7 +149,7 @@
                 </div>
                 
                 <p class="text-bright-gray font-lato lg:text-lg  text-normal lg:py-0 py-5 tracking-tight lg:text-justify md:text-center text-justify mb-6">
-                    Hi! I am Kenneth, a driven second-year Computer Engineering student and UIP Inc. intern 
+                    Hi! I am Kenneth, a driven third-year Computer Engineering student and UIP Inc. intern 
                     with a strong foundation in Python programming, mathematics, and design software. Eager 
                     to apply my skills to real-world projects, I am ready to contribute to innovative solutions.
                 </p>
